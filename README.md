@@ -10,4 +10,5 @@
 - Create Container;
 - Create File and upload it;
 - List All;
+- Download file;
 - Delete Container.
